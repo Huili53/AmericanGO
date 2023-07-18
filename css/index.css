@@ -1,0 +1,45 @@
+
+/* 导航栏 */
+#topnav {
+  background-color: #f9f9f9; 
+  box-shadow: 0px 0px 5px 5px #ccc; 
+  margin-top: -20px;
+ }
+ 
+ /* 导航栏标题图片 */
+ #logo-main {
+  display: block;
+  margin: 20px auto;
+}
+
+/* 导航栏 */
+#navbar-primary.navbar-default {
+  background: transparent;
+  border: none;
+}
+
+#navbar-primary.navbar-default .navbar-nav {
+  width: 100%;
+  text-align: center;
+}
+
+#navbar-primary.navbar-default .navbar-nav > li {
+  display: inline-block;
+  float: none;
+}
+
+#navbar-primary.navbar-default .navbar-nav > li > a {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+/* 网页底部 */
+.nav-tabs{
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    
+}
+
+
